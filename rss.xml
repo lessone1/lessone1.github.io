@@ -16,6 +16,10 @@
             <guid isPermalink="true">http://example.com/2024/01/29/SoftwareSecurity/</guid>
             <title>SoftwareSecurity</title>
             <link>http://example.com/2024/01/29/SoftwareSecurity/</link>
+            <category term="HUST本科学习" scheme="http://example.com/categories/HUST%E6%9C%AC%E7%A7%91%E5%AD%A6%E4%B9%A0/" />
+            <category term="HUST" scheme="http://example.com/tags/HUST/" />
+            <category term="软件安全" scheme="http://example.com/tags/%E8%BD%AF%E4%BB%B6%E5%AE%89%E5%85%A8/" />
+            <category term="期末复习" scheme="http://example.com/tags/%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0/" />
             <pubDate>Mon, 29 Jan 2024 10:28:03 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;第一章&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第一章&#34;&gt;#&lt;/a&gt; 第一章&lt;/h1&gt;
 &lt;p&gt;网络空间的两个子空间：代码子空间、数据子空间&lt;/p&gt;
@@ -638,87 +642,6 @@
 &lt;h2 id=&#34;根据威胁画建模树&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#根据威胁画建模树&#34;&gt;#&lt;/a&gt; 根据威胁画建模树&lt;/h2&gt;
 &lt;p&gt;&lt;img data-src=&#34;image-12.png&#34; alt=&#34;Alt text&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;image-13.png&#34; alt=&#34;Alt text&#34; /&gt;&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://example.com/2024/01/24/test1/</guid>
-            <title>test1</title>
-            <link>http://example.com/2024/01/24/test1/</link>
-            <pubDate>Wed, 24 Jan 2024 14:35:17 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;testmarkdown练习&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#testmarkdown练习&#34;&gt;#&lt;/a&gt; test:markdown 练习&lt;/h1&gt;
-&lt;h2 id=&#34;加粗&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#加粗&#34;&gt;#&lt;/a&gt; 加粗&lt;/h2&gt;
-&lt;p&gt;test&lt;strong&gt; 加粗 1&lt;/strong&gt;&lt;br /&gt;
-test &lt;strong&gt;加粗 2&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&#34;倾斜&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#倾斜&#34;&gt;#&lt;/a&gt; 倾斜&lt;/h2&gt;
-&lt;p&gt;test&lt;em&gt; 倾斜&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&#34;加粗加倾斜&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#加粗加倾斜&#34;&gt;#&lt;/a&gt; 加粗加倾斜&lt;/h2&gt;
-&lt;p&gt;test&lt;em&gt;&lt;strong&gt; 加粗倾斜&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&#34;分割线&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#分割线&#34;&gt;#&lt;/a&gt; 分割线&lt;/h2&gt;
-&lt;hr /&gt;
-&lt;h2 id=&#34;引用&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#引用&#34;&gt;#&lt;/a&gt; 引用&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;鲁迅：我没说过。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&#34;有序列表&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#有序列表&#34;&gt;#&lt;/a&gt; 有序列表&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;蜻蜓队长：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;第一，绝不意气用事&lt;/li&gt;
-&lt;li&gt;第二，绝不漏盘任何意一件坏事&lt;/li&gt;
-&lt;li&gt;第三，绝对裁判得公平公正 &amp;lt;br&amp;gt;&lt;br /&gt;
- 裁判机器人蜻蜓队长前来晋见！&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&#34;无序列表&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#无序列表&#34;&gt;#&lt;/a&gt; 无序列表&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;一级无序列表
-&lt;ul&gt;
-&lt;li&gt;二级无序列表&lt;/li&gt;
-&lt;li&gt;二级无序列表
-&lt;ul&gt;
-&lt;li&gt;三级无序列表&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;表格&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#表格&#34;&gt;#&lt;/a&gt; 表格&lt;/h2&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;班级&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;姓名&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;学号&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;成绩&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;2102&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;lessone&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;12022&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;100&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2 id=&#34;代码段&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#代码段&#34;&gt;#&lt;/a&gt; 代码段&lt;/h2&gt;
-&lt;p&gt;下面是一段代码：&amp;lt;br&amp;gt;&lt;br /&gt;
-&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;printf(&amp;quot;Hello!&amp;quot;);&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;h2 id=&#34;单行代码&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#单行代码&#34;&gt;#&lt;/a&gt; 单行代码&lt;/h2&gt;
-&lt;p&gt;下面是一段代码： &lt;code&gt;printf(&amp;quot;Hello!&amp;quot;);&lt;/code&gt;&lt;/p&gt;
-&lt;h2 id=&#34;空行&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#空行&#34;&gt;#&lt;/a&gt; 空行&lt;/h2&gt;
-&lt;h2 id=&#34;红色字体&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#红色字体&#34;&gt;#&lt;/a&gt; 红色字体&lt;/h2&gt;
-&lt;p&gt;&amp;lt;font color=red&amp;gt; 红色 &amp;lt;/font&amp;gt;&lt;/p&gt;
-&lt;h2 id=&#34;字体大小&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#字体大小&#34;&gt;#&lt;/a&gt; 字体大小&lt;/h2&gt;
-&lt;p&gt;&amp;lt;font size =5&amp;gt; size = 5 !&amp;lt;/font&amp;gt;&lt;/p&gt;
-&lt;h2 id=&#34;文字对齐&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#文字对齐&#34;&gt;#&lt;/a&gt; 文字对齐&lt;/h2&gt;
-&lt;p&gt;&amp;lt;center&amp;gt; middle &amp;lt;/center&amp;gt;&lt;br /&gt;
-&amp;lt;p align=&amp;quot;left&amp;quot;&amp;gt; 左对齐 &amp;lt;/p&amp;gt;&lt;br /&gt;
-&amp;lt;p align=&amp;quot;right&amp;quot;&amp;gt; 右对齐 &amp;lt;/p&amp;gt;&lt;/p&gt;
-&lt;h2 id=&#34;超链接&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#超链接&#34;&gt;#&lt;/a&gt; 超链接&lt;/h2&gt;
-&lt;p&gt;访问&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9sZXNzb25lMS5naXRodWIuaW8=&#34;&gt;我的主页&lt;/span&gt;吧&lt;/p&gt;
-&lt;h2 id=&#34;图片&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#图片&#34;&gt;#&lt;/a&gt; 图片&lt;/h2&gt;
-&lt;p&gt;&lt;img data-src=&#34;/../assets/wallpaper-2311325.jpg&#34; alt=&#34;Alt pic&#34; /&gt;&lt;/p&gt;
  ]]></description>
         </item>
         <item>
