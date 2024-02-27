@@ -110,6 +110,7 @@
 &lt;p&gt;尝试每隔 1 秒打印机器人位置坐标。&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&lt;div id=&#34;dplayer0&#34; class=&#34;dplayer hexo-tag-dplayer-mark&#34; style=&#34;margin-bottom: 20px;&#34;&gt;&lt;/div&gt;&lt;script&gt;(function(){var player = new DPlayer({&#34;container&#34;:document.getElementById(&#34;dplayer0&#34;),&#34;video&#34;:{&#34;url&#34;:&#34;/cheat.mkv&#34;},&#34;danmaku&#34;:{&#34;id&#34;:&#34;someid&#34;,&#34;api&#34;:&#34;https://api.prprpr.me/dplayer/&#34;,&#34;addition&#34;:[&#34;/some.json&#34;]}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);player.on(&#34;loadstart&#34;,function(){console.log(&#34;loadstart&#34;)})})()&lt;/script&gt;&lt;/p&gt;
 &lt;h1 id=&#34;hack分析&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#hack分析&#34;&gt;#&lt;/a&gt; hack 分析&lt;/h1&gt;
 &lt;h2 id=&#34;detect-it-easy查壳&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#detect-it-easy查壳&#34;&gt;#&lt;/a&gt; Detect it easy 查壳&lt;/h2&gt;
 &lt;ul&gt;
