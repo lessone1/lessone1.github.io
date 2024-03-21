@@ -8,7 +8,56 @@
     <author>
       <name>lessone</name>
     </author>
-    <updated>2024-02-21T07:17:54.000Z</updated>
+    <updated>2024-03-21T02:33:38.000Z</updated>
+    <entry>
+        <id>https://lessone.top/Software-Security-Course-Design/</id>
+        <title>Software Security Course Design</title>
+        <link rel="alternate" href="https://lessone.top/Software-Security-Course-Design/"/>
+        <content type="html">&lt;h1 id=&#34;项目说明&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#项目说明&#34;&gt;#&lt;/a&gt; 项目说明&lt;/h1&gt;
+&lt;p&gt;对于无源码情况下分析样本程序的行为，有多种方法。其中，基于 API HOOK 的方法是本次软件安全课程设计的任务。&lt;/p&gt;
+&lt;p&gt;APIGuard 是我们设计的一款轻量级的、基于 Detours 库开发的异常行为检测软件。它的前端采用&lt;strong&gt; MFC&lt;/strong&gt; 开发，后端依赖&lt;strong&gt; Detours&lt;/strong&gt; 库，完成 dll 注射以及 Win API 截获的功能。&lt;/p&gt;
+&lt;p&gt;其具体功能如下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;APIGuard 能够完成对大部分&lt;strong&gt;弹窗、堆操作、文件操作、注册表操作、socket 操作和线程进程&lt;/strong&gt;操作完成截获，并将调用的参数告知使用者。&lt;/li&gt;
+&lt;li&gt;APIGuard 能够选择是否&lt;strong&gt;提示&lt;/strong&gt;弹窗、堆操作、文件操作、注册表操作和 socket 操作的截获。&lt;/li&gt;
+&lt;li&gt;APIGuard 能够告知用户程序企图创建进程并运行的程序名，并&lt;strong&gt;让用户选择是否运行&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;APIGuard 能够在截获的基础上完成一些&lt;strong&gt;异常行为分析&lt;/strong&gt;，如程序自我复制、堆二次释放和创建恶意进程等。&lt;/li&gt;
+&lt;li&gt;一些基本的软件信息，包括版权所有（&lt;s&gt;也许没用&lt;/s&gt;）、联系作者和开源仓库跳转等。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;环境搭建&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#环境搭建&#34;&gt;#&lt;/a&gt; 环境搭建&lt;/h1&gt;
+&lt;p&gt;你可以在&lt;em&gt;发行版&lt;/em&gt;中直接下载最新版 APIGuard，也可以搭建环境参与 APIGuard 开发：&lt;/p&gt;
+&lt;p&gt;一些基本的操作流程如下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;下载安装 Visual Studio 2022；&lt;/li&gt;
+&lt;li&gt;下载 Detours 4.0.1 源码，并完成编译；&lt;/li&gt;
+&lt;li&gt;打开 OurWork/Dll1/Dll1.sln 和 OurWork / 注射器 /injector/injector.sln，选择 “&lt;em&gt;项目&lt;/em&gt;”-“&lt;em&gt;属性&lt;/em&gt;”-“&lt;em&gt;VC++ 目录&lt;/em&gt;”，修改&lt;em&gt;包含目录&lt;/em&gt;和&lt;em&gt;库目录&lt;/em&gt;为你的 Detours 4.0.1 编译结果路径。&lt;/li&gt;
+&lt;li&gt;参与开发，丰富功能。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;使用说明&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#使用说明&#34;&gt;#&lt;/a&gt; 使用说明&lt;/h1&gt;
+&lt;p&gt;我们&lt;em&gt;&lt;strong&gt;强烈建议&lt;/strong&gt;&lt;/em&gt;在&lt;strong&gt;使用时关闭搜狗拼音&lt;/strong&gt;，它会造成程序截获到未知原因的 “HeapFree” 等行为。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image.png&#34; alt=&#34;主UI&#34; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;选择 “&lt;em&gt;文件&lt;/em&gt;” - “&lt;em&gt;打开&lt;/em&gt;” 运行可疑程序并开始截获。（如果你暂时不知道该运行什么，我们在 OurWork/app/app 中给出了一个测试程序）&lt;/li&gt;
+&lt;li&gt;程序会在&lt;em&gt; Functions 框&lt;/em&gt;中输出截获到的函数&lt;/li&gt;
+&lt;li&gt;单击&lt;em&gt; Functions 框&lt;/em&gt;，程序会在&lt;em&gt; Details 框&lt;/em&gt;中显示调用参数、调用时间等详细信息&lt;/li&gt;
+&lt;li&gt;当截获到一些潜在的危险行为，程序会在&lt;em&gt; Warnings 框&lt;/em&gt;中输出提示信息&lt;/li&gt;
+&lt;li&gt;选择 “&lt;em&gt;帮助 (H)&lt;/em&gt;” 查看版权信息、联系我们。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;开源仓库&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#开源仓库&#34;&gt;#&lt;/a&gt; 开源仓库&lt;/h1&gt;
+&lt;p&gt;项目的开源仓库链接：&lt;/p&gt;
+&lt;p&gt;&lt;div class=&#34;links&#34;&gt;&lt;div class=&#34;item&#34; title=&#34;lessone&#34; style=&#34;--block-color:#9d5b8b;&#34;&gt;&lt;span class=&#34;exturl image&#34; data-url=&#34;aHR0cHM6Ly9naXRlZS5jb20vbGVzcy1vbmUvaHVzdC1kZXRvdXJz&#34; data-background-image=&#34;/images/avatar.jpg&#34;&gt;&lt;/span&gt;
+          &lt;div class=&#34;info&#34;&gt;
+          &lt;span class=&#34;exturl title&#34; data-url=&#34;aHR0cHM6Ly9naXRlZS5jb20vbGVzcy1vbmUvaHVzdC1kZXRvdXJz&#34;&gt;APIGuard&lt;/span&gt;
+          &lt;p class=&#34;desc&#34;&gt;APIGuard开源仓库&lt;/p&gt;
+          &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/p&gt;
+</content>
+        <category term="HUST本科学习" scheme="https://lessone.top/categories/HUST%E6%9C%AC%E7%A7%91%E5%AD%A6%E4%B9%A0/" />
+        <category term="HUST" scheme="https://lessone.top/tags/HUST/" />
+        <category term="API HOOK" scheme="https://lessone.top/tags/API-HOOK/" />
+        <category term="课程设计" scheme="https://lessone.top/tags/%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1/" />
+        <category term="异常行为检测" scheme="https://lessone.top/tags/%E5%BC%82%E5%B8%B8%E8%A1%8C%E4%B8%BA%E6%A3%80%E6%B5%8B/" />
+        <updated>2024-03-21T02:33:38.000Z</updated>
+    </entry>
     <entry>
         <id>https://lessone.top/GameSecurityFinalWork/</id>
         <title>GameSecurityFinal</title>

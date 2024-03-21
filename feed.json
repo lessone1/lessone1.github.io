@@ -7,6 +7,20 @@
     "home_page_url": "https://lessone.top",
     "items": [
         {
+            "id": "https://lessone.top/Software-Security-Course-Design/",
+            "url": "https://lessone.top/Software-Security-Course-Design/",
+            "title": "Software Security Course Design",
+            "date_published": "2024-03-21T02:33:38.000Z",
+            "content_html": "<h1 id=\"项目说明\"><a class=\"anchor\" href=\"#项目说明\">#</a> 项目说明</h1>\n<p>对于无源码情况下分析样本程序的行为，有多种方法。其中，基于 API HOOK 的方法是本次软件安全课程设计的任务。</p>\n<p>APIGuard 是我们设计的一款轻量级的、基于 Detours 库开发的异常行为检测软件。它的前端采用<strong> MFC</strong> 开发，后端依赖<strong> Detours</strong> 库，完成 dll 注射以及 Win API 截获的功能。</p>\n<p>其具体功能如下：</p>\n<ul>\n<li>APIGuard 能够完成对大部分<strong>弹窗、堆操作、文件操作、注册表操作、socket 操作和线程进程</strong>操作完成截获，并将调用的参数告知使用者。</li>\n<li>APIGuard 能够选择是否<strong>提示</strong>弹窗、堆操作、文件操作、注册表操作和 socket 操作的截获。</li>\n<li>APIGuard 能够告知用户程序企图创建进程并运行的程序名，并<strong>让用户选择是否运行</strong>。</li>\n<li>APIGuard 能够在截获的基础上完成一些<strong>异常行为分析</strong>，如程序自我复制、堆二次释放和创建恶意进程等。</li>\n<li>一些基本的软件信息，包括版权所有（<s>也许没用</s>）、联系作者和开源仓库跳转等。</li>\n</ul>\n<h1 id=\"环境搭建\"><a class=\"anchor\" href=\"#环境搭建\">#</a> 环境搭建</h1>\n<p>你可以在<em>发行版</em>中直接下载最新版 APIGuard，也可以搭建环境参与 APIGuard 开发：</p>\n<p>一些基本的操作流程如下：</p>\n<ul>\n<li>下载安装 Visual Studio 2022；</li>\n<li>下载 Detours 4.0.1 源码，并完成编译；</li>\n<li>打开 OurWork/Dll1/Dll1.sln 和 OurWork / 注射器 /injector/injector.sln，选择 “<em>项目</em>”-“<em>属性</em>”-“<em>VC++ 目录</em>”，修改<em>包含目录</em>和<em>库目录</em>为你的 Detours 4.0.1 编译结果路径。</li>\n<li>参与开发，丰富功能。</li>\n</ul>\n<h1 id=\"使用说明\"><a class=\"anchor\" href=\"#使用说明\">#</a> 使用说明</h1>\n<p>我们<em><strong>强烈建议</strong></em>在<strong>使用时关闭搜狗拼音</strong>，它会造成程序截获到未知原因的 “HeapFree” 等行为。</p>\n<p><img data-src=\"image.png\" alt=\"主UI\" /></p>\n<ul>\n<li>选择 “<em>文件</em>” - “<em>打开</em>” 运行可疑程序并开始截获。（如果你暂时不知道该运行什么，我们在 OurWork/app/app 中给出了一个测试程序）</li>\n<li>程序会在<em> Functions 框</em>中输出截获到的函数</li>\n<li>单击<em> Functions 框</em>，程序会在<em> Details 框</em>中显示调用参数、调用时间等详细信息</li>\n<li>当截获到一些潜在的危险行为，程序会在<em> Warnings 框</em>中输出提示信息</li>\n<li>选择 “<em>帮助 (H)</em>” 查看版权信息、联系我们。</li>\n</ul>\n<h1 id=\"开源仓库\"><a class=\"anchor\" href=\"#开源仓库\">#</a> 开源仓库</h1>\n<p>项目的开源仓库链接：</p>\n<p><div class=\"links\"><div class=\"item\" title=\"lessone\" style=\"--block-color:#9d5b8b;\"><span class=\"exturl image\" data-url=\"aHR0cHM6Ly9naXRlZS5jb20vbGVzcy1vbmUvaHVzdC1kZXRvdXJz\" data-background-image=\"/images/avatar.jpg\"></span>\n          <div class=\"info\">\n          <span class=\"exturl title\" data-url=\"aHR0cHM6Ly9naXRlZS5jb20vbGVzcy1vbmUvaHVzdC1kZXRvdXJz\">APIGuard</span>\n          <p class=\"desc\">APIGuard开源仓库</p>\n          </div></div></div></p>\n",
+            "tags": [
+                "HUST本科学习",
+                "HUST",
+                "API HOOK",
+                "课程设计",
+                "异常行为检测"
+            ]
+        },
+        {
             "id": "https://lessone.top/GameSecurityFinalWork/",
             "url": "https://lessone.top/GameSecurityFinalWork/",
             "title": "GameSecurityFinal",
