@@ -14,7 +14,7 @@
         <lastBuildDate>Thu, 21 Mar 2024 20:50:14 +0800</lastBuildDate>
         <item>
             <guid isPermalink="true">https://lessone.top/OpenHarmony-Build-Error-Fix/</guid>
-            <title>OpenHarmony编译报错修复</title>
+            <title>[报错修复]OpenHarmony编译报错修复</title>
             <link>https://lessone.top/OpenHarmony-Build-Error-Fix/</link>
             <category term="OpenHarmony学习" scheme="https://lessone.top/categories/OpenHarmony%E5%AD%A6%E4%B9%A0/" />
             <category term="OpenHarmony" scheme="https://lessone.top/tags/OpenHarmony/" />
@@ -81,7 +81,7 @@
         </item>
         <item>
             <guid isPermalink="true">https://lessone.top/Software-Security-Course-Design/</guid>
-            <title>Software Security Course Design</title>
+            <title>[HOOK]基于API HOOK的异常行为检测软件开发</title>
             <link>https://lessone.top/Software-Security-Course-Design/</link>
             <category term="HUST本科学习" scheme="https://lessone.top/categories/HUST%E6%9C%AC%E7%A7%91%E5%AD%A6%E4%B9%A0/" />
             <category term="HUST" scheme="https://lessone.top/tags/HUST/" />
@@ -130,13 +130,14 @@
         </item>
         <item>
             <guid isPermalink="true">https://lessone.top/GameSecurityFinalWork/</guid>
-            <title>GameSecurityFinal</title>
+            <title>[逆向分析]ShooterClient外挂分析</title>
             <link>https://lessone.top/GameSecurityFinalWork/</link>
             <category term="HUST本科学习" scheme="https://lessone.top/categories/HUST%E6%9C%AC%E7%A7%91%E5%AD%A6%E4%B9%A0/" />
             <category term="HUST" scheme="https://lessone.top/tags/HUST/" />
             <category term="游戏设计与安全" scheme="https://lessone.top/tags/%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%89%E5%85%A8/" />
             <category term="shooterclient" scheme="https://lessone.top/tags/shooterclient/" />
             <category term="期末作业" scheme="https://lessone.top/tags/%E6%9C%9F%E6%9C%AB%E4%BD%9C%E4%B8%9A/" />
+            <category term="逆向分析" scheme="https://lessone.top/tags/%E9%80%86%E5%90%91%E5%88%86%E6%9E%90/" />
             <pubDate>Wed, 21 Feb 2024 15:17:54 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;shooterclient游戏分析&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#shooterclient游戏分析&#34;&gt;#&lt;/a&gt; ShooterClient 游戏分析&lt;/h1&gt;
 &lt;h2 id=&#34;查看游戏引擎&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#查看游戏引擎&#34;&gt;#&lt;/a&gt; 查看游戏引擎&lt;/h2&gt;
@@ -622,7 +623,7 @@ int main()&amp;#123;
         </item>
         <item>
             <guid isPermalink="true">https://lessone.top/SoftwareSecurity/</guid>
-            <title>SoftwareSecurity</title>
+            <title>[课程复习]华中科技大学软件安全期末复习整理</title>
             <link>https://lessone.top/SoftwareSecurity/</link>
             <category term="HUST本科学习" scheme="https://lessone.top/categories/HUST%E6%9C%AC%E7%A7%91%E5%AD%A6%E4%B9%A0/" />
             <category term="HUST" scheme="https://lessone.top/tags/HUST/" />
