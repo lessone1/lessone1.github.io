@@ -8,7 +8,26 @@
     <author>
       <name>lessone</name>
     </author>
-    <updated>2024-03-21T12:50:14.000Z</updated>
+    <updated>2024-08-01T07:04:06.000Z</updated>
+    <entry>
+        <id>https://lessone.top/Gu-Mu-Cang-Cang/</id>
+        <title>[随笔] July</title>
+        <link rel="alternate" href="https://lessone.top/Gu-Mu-Cang-Cang/"/>
+        <content type="html">&lt;h1 id=&#34;quzhou-experimental-school&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#quzhou-experimental-school&#34;&gt;#&lt;/a&gt; Quzhou Experimental School&lt;/h1&gt;
+&lt;p&gt;&lt;img data-src=&#34;1.jpg&#34; alt=&#34;sky&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;2.jpg&#34; alt=&#34;playground&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;3.jpg&#34; alt=&#34;flyover&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;4.jpg&#34; alt=&#34;ling lake&#34; /&gt;&lt;/p&gt;
+&lt;h1 id=&#34;misc&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#misc&#34;&gt;#&lt;/a&gt; misc&lt;/h1&gt;
+&lt;p&gt;&lt;img data-src=&#34;misc1.jpg&#34; alt=&#34; &#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;misc2.jpg&#34; alt=&#34; &#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;misc3.jpg&#34; alt=&#34; &#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;misc4.jpg&#34; alt=&#34; &#34; /&gt;&lt;/p&gt;
+</content>
+        <category term="衢州市实验学校" scheme="https://lessone.top/tags/%E8%A1%A2%E5%B7%9E%E5%B8%82%E5%AE%9E%E9%AA%8C%E5%AD%A6%E6%A0%A1/" />
+        <category term="随笔" scheme="https://lessone.top/tags/%E9%9A%8F%E7%AC%94/" />
+        <updated>2024-08-01T07:04:06.000Z</updated>
+    </entry>
     <entry>
         <id>https://lessone.top/OpenHarmony-Build-Error-Fix/</id>
         <title>[报错修复]OpenHarmony编译报错修复</title>

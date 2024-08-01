@@ -10,8 +10,27 @@
         </author>
         <description>This is lessone&#39;s blog</description>
         <language>zh-CN</language>
-        <pubDate>Thu, 21 Mar 2024 20:50:14 +0800</pubDate>
-        <lastBuildDate>Thu, 21 Mar 2024 20:50:14 +0800</lastBuildDate>
+        <pubDate>Thu, 01 Aug 2024 15:04:06 +0800</pubDate>
+        <lastBuildDate>Thu, 01 Aug 2024 15:04:06 +0800</lastBuildDate>
+        <item>
+            <guid isPermalink="true">https://lessone.top/Gu-Mu-Cang-Cang/</guid>
+            <title>[随笔] July</title>
+            <link>https://lessone.top/Gu-Mu-Cang-Cang/</link>
+            <category term="衢州市实验学校" scheme="https://lessone.top/tags/%E8%A1%A2%E5%B7%9E%E5%B8%82%E5%AE%9E%E9%AA%8C%E5%AD%A6%E6%A0%A1/" />
+            <category term="随笔" scheme="https://lessone.top/tags/%E9%9A%8F%E7%AC%94/" />
+            <pubDate>Thu, 01 Aug 2024 15:04:06 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;quzhou-experimental-school&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#quzhou-experimental-school&#34;&gt;#&lt;/a&gt; Quzhou Experimental School&lt;/h1&gt;
+&lt;p&gt;&lt;img data-src=&#34;1.jpg&#34; alt=&#34;sky&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;2.jpg&#34; alt=&#34;playground&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;3.jpg&#34; alt=&#34;flyover&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;4.jpg&#34; alt=&#34;ling lake&#34; /&gt;&lt;/p&gt;
+&lt;h1 id=&#34;misc&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#misc&#34;&gt;#&lt;/a&gt; misc&lt;/h1&gt;
+&lt;p&gt;&lt;img data-src=&#34;misc1.jpg&#34; alt=&#34; &#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;misc2.jpg&#34; alt=&#34; &#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;misc3.jpg&#34; alt=&#34; &#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;misc4.jpg&#34; alt=&#34; &#34; /&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://lessone.top/OpenHarmony-Build-Error-Fix/</guid>
             <title>[报错修复]OpenHarmony编译报错修复</title>
