@@ -3,8 +3,8 @@
     <channel>
         <title>lessone</title>
         <subtitle>此去应多羡</subtitle>
-        <icon>https://lessone.top/images/favicon.ico</icon>
-        <link>https://lessone.top</link>
+        <icon>https://less1.top/images/favicon.ico</icon>
+        <link>https://less1.top</link>
         <author>
           <name>lessone</name>
         </author>
@@ -13,14 +13,14 @@
         <pubDate>Wed, 30 Oct 2024 18:42:10 +0800</pubDate>
         <lastBuildDate>Wed, 30 Oct 2024 18:42:10 +0800</lastBuildDate>
         <item>
-            <guid isPermalink="true">https://lessone.top/PPT-auto-nav/</guid>
+            <guid isPermalink="true">https://less1.top/PPT-auto-nav/</guid>
             <title>[实用脚本]组会必备！PPT自动导航栏生成工具</title>
-            <link>https://lessone.top/PPT-auto-nav/</link>
-            <category term="实用脚本" scheme="https://lessone.top/categories/%E5%AE%9E%E7%94%A8%E8%84%9A%E6%9C%AC/" />
-            <category term="研究生组会" scheme="https://lessone.top/tags/%E7%A0%94%E7%A9%B6%E7%94%9F%E7%BB%84%E4%BC%9A/" />
-            <category term="实用脚本" scheme="https://lessone.top/tags/%E5%AE%9E%E7%94%A8%E8%84%9A%E6%9C%AC/" />
-            <category term="PPT美化" scheme="https://lessone.top/tags/PPT%E7%BE%8E%E5%8C%96/" />
-            <category term="导航栏" scheme="https://lessone.top/tags/%E5%AF%BC%E8%88%AA%E6%A0%8F/" />
+            <link>https://less1.top/PPT-auto-nav/</link>
+            <category term="实用脚本" scheme="https://less1.top/categories/%E5%AE%9E%E7%94%A8%E8%84%9A%E6%9C%AC/" />
+            <category term="研究生组会" scheme="https://less1.top/tags/%E7%A0%94%E7%A9%B6%E7%94%9F%E7%BB%84%E4%BC%9A/" />
+            <category term="实用脚本" scheme="https://less1.top/tags/%E5%AE%9E%E7%94%A8%E8%84%9A%E6%9C%AC/" />
+            <category term="PPT美化" scheme="https://less1.top/tags/PPT%E7%BE%8E%E5%8C%96/" />
+            <category term="导航栏" scheme="https://less1.top/tags/%E5%AF%BC%E8%88%AA%E6%A0%8F/" />
             <pubDate>Wed, 30 Oct 2024 18:42:10 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;实际效果&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#实际效果&#34;&gt;#&lt;/a&gt; 实际效果&lt;/h1&gt;
 &lt;p&gt;添加导航栏前的 PPT：&lt;br /&gt;
@@ -87,14 +87,14 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://lessone.top/Mobile-Security/</guid>
+            <guid isPermalink="true">https://less1.top/Mobile-Security/</guid>
             <title>[移动应用安全]华中科技大学移动应用安全静态动态分析作业</title>
-            <link>https://lessone.top/Mobile-Security/</link>
-            <category term="HUST本科学习" scheme="https://lessone.top/categories/HUST%E6%9C%AC%E7%A7%91%E5%AD%A6%E4%B9%A0/" />
-            <category term="HUST" scheme="https://lessone.top/tags/HUST/" />
-            <category term="移动应用安全" scheme="https://lessone.top/tags/%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A8%E5%AE%89%E5%85%A8/" />
-            <category term="soot" scheme="https://lessone.top/tags/soot/" />
-            <category term="Droidbot" scheme="https://lessone.top/tags/Droidbot/" />
+            <link>https://less1.top/Mobile-Security/</link>
+            <category term="HUST本科学习" scheme="https://less1.top/categories/HUST%E6%9C%AC%E7%A7%91%E5%AD%A6%E4%B9%A0/" />
+            <category term="HUST" scheme="https://less1.top/tags/HUST/" />
+            <category term="移动应用安全" scheme="https://less1.top/tags/%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A8%E5%AE%89%E5%85%A8/" />
+            <category term="soot" scheme="https://less1.top/tags/soot/" />
+            <category term="Droidbot" scheme="https://less1.top/tags/Droidbot/" />
             <pubDate>Sat, 26 Oct 2024 11:17:54 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;动态分析&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#动态分析&#34;&gt;#&lt;/a&gt; 动态分析&lt;/h1&gt;
 &lt;h2 id=&#34;实验目的&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#实验目的&#34;&gt;#&lt;/a&gt; 实验目的&lt;/h2&gt;
@@ -228,12 +228,12 @@ Chrome 浏览器的测试结果如图 5 所示。&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://lessone.top/Java-Learning/</guid>
+            <guid isPermalink="true">https://less1.top/Java-Learning/</guid>
             <title>Java-Learning</title>
-            <link>https://lessone.top/Java-Learning/</link>
-            <category term="Java学习" scheme="https://lessone.top/categories/Java%E5%AD%A6%E4%B9%A0/" />
-            <category term="Java" scheme="https://lessone.top/tags/Java/" />
-            <category term="面向对象" scheme="https://lessone.top/tags/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/" />
+            <link>https://less1.top/Java-Learning/</link>
+            <category term="Java学习" scheme="https://less1.top/categories/Java%E5%AD%A6%E4%B9%A0/" />
+            <category term="Java" scheme="https://less1.top/tags/Java/" />
+            <category term="面向对象" scheme="https://less1.top/tags/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/" />
             <pubDate>Thu, 22 Aug 2024 17:20:46 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;面向对象&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#面向对象&#34;&gt;#&lt;/a&gt; 面向对象&lt;/h1&gt;
 &lt;p&gt;你是上帝，创造对象，让对象干活。&lt;/p&gt;
@@ -411,12 +411,12 @@ Chrome 浏览器的测试结果如图 5 所示。&lt;/p&gt;
 &lt;figure class=&#34;highlight java&#34;&gt;&lt;figcaption data-lang=&#34;java&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;public&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;token class-name&#34;&gt;Test&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  &lt;span class=&#34;token keyword&#34;&gt;public&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;static&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;change2&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token class-name&#34;&gt;Cat&lt;/span&gt; c&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    c &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;new&lt;/span&gt; &lt;span class=&#34;token class-name&#34;&gt;Cat&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;NewName&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 创建一个新的猫，change.c 指向新猫的地址，外面的 c 仍指向原来的猫的地址&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token comment&#34;&gt;// 运行完后 change.c 被回收，新猫被回收&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  &lt;span class=&#34;token keyword&#34;&gt;public&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;static&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token class-name&#34;&gt;Cat&lt;/span&gt; c &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;new&lt;/span&gt; &lt;span class=&#34;token class-name&#34;&gt;Cat&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;OriginalName&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token function&#34;&gt;change2&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;c&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 传入 c 的值，即原来的猫的地址&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token class-name&#34;&gt;System&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;out&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;println&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;c&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;name&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// OriginalName&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;figure class=&#34;highlight java&#34;&gt;&lt;figcaption data-lang=&#34;java&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;public&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;token class-name&#34;&gt;Test&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  &lt;span class=&#34;token keyword&#34;&gt;public&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;static&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;change3&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token class-name&#34;&gt;Cat&lt;/span&gt; c&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    c&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;name &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#34;NewNewName&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;  &lt;span class=&#34;token comment&#34;&gt;//c 为原来猫的地址，故修改成功&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  &lt;span class=&#34;token keyword&#34;&gt;public&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;static&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token class-name&#34;&gt;Cat&lt;/span&gt; c &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;new&lt;/span&gt; &lt;span class=&#34;token class-name&#34;&gt;Cat&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;OriginalName&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token function&#34;&gt;change3&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;c&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 传入 c 的值，即原来的猫的地址&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token class-name&#34;&gt;System&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;out&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;println&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;c&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;name&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;//NewNewName&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt; ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://lessone.top/Gu-Mu-Cang-Cang/</guid>
+            <guid isPermalink="true">https://less1.top/Gu-Mu-Cang-Cang/</guid>
             <title>[随笔] July</title>
-            <link>https://lessone.top/Gu-Mu-Cang-Cang/</link>
-            <category term="随笔" scheme="https://lessone.top/categories/%E9%9A%8F%E7%AC%94/" />
-            <category term="衢州市实验学校" scheme="https://lessone.top/tags/%E8%A1%A2%E5%B7%9E%E5%B8%82%E5%AE%9E%E9%AA%8C%E5%AD%A6%E6%A0%A1/" />
-            <category term="随笔" scheme="https://lessone.top/tags/%E9%9A%8F%E7%AC%94/" />
+            <link>https://less1.top/Gu-Mu-Cang-Cang/</link>
+            <category term="随笔" scheme="https://less1.top/categories/%E9%9A%8F%E7%AC%94/" />
+            <category term="衢州市实验学校" scheme="https://less1.top/tags/%E8%A1%A2%E5%B7%9E%E5%B8%82%E5%AE%9E%E9%AA%8C%E5%AD%A6%E6%A0%A1/" />
+            <category term="随笔" scheme="https://less1.top/tags/%E9%9A%8F%E7%AC%94/" />
             <pubDate>Thu, 01 Aug 2024 15:04:06 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;quzhou-experimental-school&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#quzhou-experimental-school&#34;&gt;#&lt;/a&gt; Quzhou Experimental School&lt;/h1&gt;
 &lt;p&gt;&lt;img data-src=&#34;1.jpg&#34; alt=&#34;sky&#34; /&gt;&lt;/p&gt;
@@ -431,13 +431,13 @@ Chrome 浏览器的测试结果如图 5 所示。&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://lessone.top/OpenHarmony-Build-Error-Fix/</guid>
+            <guid isPermalink="true">https://less1.top/OpenHarmony-Build-Error-Fix/</guid>
             <title>[报错修复]OpenHarmony编译报错修复</title>
-            <link>https://lessone.top/OpenHarmony-Build-Error-Fix/</link>
-            <category term="OpenHarmony学习" scheme="https://lessone.top/categories/OpenHarmony%E5%AD%A6%E4%B9%A0/" />
-            <category term="OpenHarmony" scheme="https://lessone.top/tags/OpenHarmony/" />
-            <category term="编译" scheme="https://lessone.top/tags/%E7%BC%96%E8%AF%91/" />
-            <category term="报错修复" scheme="https://lessone.top/tags/%E6%8A%A5%E9%94%99%E4%BF%AE%E5%A4%8D/" />
+            <link>https://less1.top/OpenHarmony-Build-Error-Fix/</link>
+            <category term="OpenHarmony学习" scheme="https://less1.top/categories/OpenHarmony%E5%AD%A6%E4%B9%A0/" />
+            <category term="OpenHarmony" scheme="https://less1.top/tags/OpenHarmony/" />
+            <category term="编译" scheme="https://less1.top/tags/%E7%BC%96%E8%AF%91/" />
+            <category term="报错修复" scheme="https://less1.top/tags/%E6%8A%A5%E9%94%99%E4%BF%AE%E5%A4%8D/" />
             <pubDate>Thu, 21 Mar 2024 20:50:14 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;gn-phase-failed修复&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#gn-phase-failed修复&#34;&gt;#&lt;/a&gt; GN phase failed 修复&lt;/h1&gt;
 &lt;h2 id=&#34;报错命令&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#报错命令&#34;&gt;#&lt;/a&gt; 报错命令&lt;/h2&gt;
@@ -498,14 +498,14 @@ Chrome 浏览器的测试结果如图 5 所示。&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://lessone.top/Software-Security-Course-Design/</guid>
+            <guid isPermalink="true">https://less1.top/Software-Security-Course-Design/</guid>
             <title>[HOOK]基于API HOOK的异常行为检测软件开发</title>
-            <link>https://lessone.top/Software-Security-Course-Design/</link>
-            <category term="HUST本科学习" scheme="https://lessone.top/categories/HUST%E6%9C%AC%E7%A7%91%E5%AD%A6%E4%B9%A0/" />
-            <category term="HUST" scheme="https://lessone.top/tags/HUST/" />
-            <category term="API HOOK" scheme="https://lessone.top/tags/API-HOOK/" />
-            <category term="课程设计" scheme="https://lessone.top/tags/%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1/" />
-            <category term="异常行为检测" scheme="https://lessone.top/tags/%E5%BC%82%E5%B8%B8%E8%A1%8C%E4%B8%BA%E6%A3%80%E6%B5%8B/" />
+            <link>https://less1.top/Software-Security-Course-Design/</link>
+            <category term="HUST本科学习" scheme="https://less1.top/categories/HUST%E6%9C%AC%E7%A7%91%E5%AD%A6%E4%B9%A0/" />
+            <category term="HUST" scheme="https://less1.top/tags/HUST/" />
+            <category term="API HOOK" scheme="https://less1.top/tags/API-HOOK/" />
+            <category term="课程设计" scheme="https://less1.top/tags/%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1/" />
+            <category term="异常行为检测" scheme="https://less1.top/tags/%E5%BC%82%E5%B8%B8%E8%A1%8C%E4%B8%BA%E6%A3%80%E6%B5%8B/" />
             <pubDate>Thu, 21 Mar 2024 10:33:38 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;项目说明&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#项目说明&#34;&gt;#&lt;/a&gt; 项目说明&lt;/h1&gt;
 &lt;p&gt;对于无源码情况下分析样本程序的行为，有多种方法。其中，基于 API HOOK 的方法是本次软件安全课程设计的任务。&lt;/p&gt;
@@ -547,15 +547,15 @@ Chrome 浏览器的测试结果如图 5 所示。&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://lessone.top/GameSecurityFinalWork/</guid>
+            <guid isPermalink="true">https://less1.top/GameSecurityFinalWork/</guid>
             <title>[逆向分析]ShooterClient外挂分析</title>
-            <link>https://lessone.top/GameSecurityFinalWork/</link>
-            <category term="HUST本科学习" scheme="https://lessone.top/categories/HUST%E6%9C%AC%E7%A7%91%E5%AD%A6%E4%B9%A0/" />
-            <category term="HUST" scheme="https://lessone.top/tags/HUST/" />
-            <category term="游戏设计与安全" scheme="https://lessone.top/tags/%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%89%E5%85%A8/" />
-            <category term="shooterclient" scheme="https://lessone.top/tags/shooterclient/" />
-            <category term="期末作业" scheme="https://lessone.top/tags/%E6%9C%9F%E6%9C%AB%E4%BD%9C%E4%B8%9A/" />
-            <category term="逆向分析" scheme="https://lessone.top/tags/%E9%80%86%E5%90%91%E5%88%86%E6%9E%90/" />
+            <link>https://less1.top/GameSecurityFinalWork/</link>
+            <category term="HUST本科学习" scheme="https://less1.top/categories/HUST%E6%9C%AC%E7%A7%91%E5%AD%A6%E4%B9%A0/" />
+            <category term="HUST" scheme="https://less1.top/tags/HUST/" />
+            <category term="游戏设计与安全" scheme="https://less1.top/tags/%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%89%E5%85%A8/" />
+            <category term="shooterclient" scheme="https://less1.top/tags/shooterclient/" />
+            <category term="期末作业" scheme="https://less1.top/tags/%E6%9C%9F%E6%9C%AB%E4%BD%9C%E4%B8%9A/" />
+            <category term="逆向分析" scheme="https://less1.top/tags/%E9%80%86%E5%90%91%E5%88%86%E6%9E%90/" />
             <pubDate>Wed, 21 Feb 2024 15:17:54 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;shooterclient游戏分析&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#shooterclient游戏分析&#34;&gt;#&lt;/a&gt; ShooterClient 游戏分析&lt;/h1&gt;
 &lt;h2 id=&#34;查看游戏引擎&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#查看游戏引擎&#34;&gt;#&lt;/a&gt; 查看游戏引擎&lt;/h2&gt;
@@ -832,13 +832,13 @@ Chrome 浏览器的测试结果如图 5 所示。&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://lessone.top/SoftwareSecurity/</guid>
+            <guid isPermalink="true">https://less1.top/SoftwareSecurity/</guid>
             <title>[课程复习]华中科技大学软件安全期末复习整理</title>
-            <link>https://lessone.top/SoftwareSecurity/</link>
-            <category term="HUST本科学习" scheme="https://lessone.top/categories/HUST%E6%9C%AC%E7%A7%91%E5%AD%A6%E4%B9%A0/" />
-            <category term="HUST" scheme="https://lessone.top/tags/HUST/" />
-            <category term="软件安全" scheme="https://lessone.top/tags/%E8%BD%AF%E4%BB%B6%E5%AE%89%E5%85%A8/" />
-            <category term="期末复习" scheme="https://lessone.top/tags/%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0/" />
+            <link>https://less1.top/SoftwareSecurity/</link>
+            <category term="HUST本科学习" scheme="https://less1.top/categories/HUST%E6%9C%AC%E7%A7%91%E5%AD%A6%E4%B9%A0/" />
+            <category term="HUST" scheme="https://less1.top/tags/HUST/" />
+            <category term="软件安全" scheme="https://less1.top/tags/%E8%BD%AF%E4%BB%B6%E5%AE%89%E5%85%A8/" />
+            <category term="期末复习" scheme="https://less1.top/tags/%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0/" />
             <pubDate>Mon, 29 Jan 2024 10:28:03 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;第一章&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第一章&#34;&gt;#&lt;/a&gt; 第一章&lt;/h1&gt;
 &lt;p&gt;网络空间的两个子空间：代码子空间、数据子空间&lt;/p&gt;
@@ -1462,9 +1462,9 @@ Chrome 浏览器的测试结果如图 5 所示。&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://lessone.top/hello-world/</guid>
+            <guid isPermalink="true">https://less1.top/hello-world/</guid>
             <title>Hello World</title>
-            <link>https://lessone.top/hello-world/</link>
+            <link>https://less1.top/hello-world/</link>
             <pubDate>Sun, 21 Jan 2024 19:03:14 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;Hexo&lt;/span&gt;! This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&#34;&gt;documentation&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&#34;&gt;troubleshooting&lt;/span&gt; or you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
